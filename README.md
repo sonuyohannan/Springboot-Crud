@@ -1,2 +1,2 @@
 # Springboot-Crud
-Demonstating a crud(Create,delete,update)  REST API using springboot 
+CRUD  operations (REST API)  in SPRINGBOOT with mysql database 
